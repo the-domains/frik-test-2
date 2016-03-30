@@ -1,0 +1,28 @@
+name: Frik test 2
+favicon: null
+layout_spectrum: 0.4177629603073001
+typography_spectrum: 0.1691879325080663
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.32565518631599844
+  lightness: 0.5715174237266183
+  saturation: 0.28301613684743643
+  rhythmicContrast: 0.7330715486314148
+purpose: []
