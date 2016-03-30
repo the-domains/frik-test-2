@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[Frik test 2]]></title>
         <description><![CDATA[Frik test 2]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/frik-test-2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 19:18:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 19:31:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/frik-test-2/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined7aa8eb02-106c-4428-839a-03284d8ccbc9/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfc04c2f-d26b-4be5-bc72-340425d7807c.jpg">]]></description>
+            <link>https://thegrid.ai/frik-test-2/a9a395d8-6c20-470c-9a88-e2f47b77a4c2/index.html</link>
+            <guid isPermaLink="false">a9a395d8-6c20-470c-9a88-e2f47b77a4c2</guid>
+            <pubDate>Wed, 30 Mar 2016 19:31:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin placerat, ligula quis commodo aliquet, dolor sem pulvinar erat, sit amet porttitor orci quam et libero. Vivamus vel erat metus. In hac habitasse platea dictumst. Donec tempor convallis risus id semper. Curabitur mauris ante, luctus maximus congue at, semper eget libero. Quisque luctus ornare nisi, in iaculis risus rutrum eget. Suspendisse non mauris suscipit, ultrices odio in, faucibus nibh. Etiam at est eget leo lobortis feugiat eget sed dolor. Phasellus mollis, nibh id ultrices ornare, libero ipsum porta mauris, eget imperdiet nisi mauris nec nisi. Pellentesque nec erat ut dui egestas elementum. Suspendisse felis libero, iaculis nec maximus vel, dignissim quis quam. Suspendisse consequat ipsum enim. Nam sit amet est tellus. Sed et diam massa. Mauris feugiat neque ut ipsum imperdiet porta. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>]]></description>
+            <link>https://thegrid.ai/frik-test-2/7aa8eb02-106c-4428-839a-03284d8ccbc9/index.html</link>
             <guid isPermaLink="false">7aa8eb02-106c-4428-839a-03284d8ccbc9</guid>
             <pubDate>Wed, 30 Mar 2016 19:18:11 GMT</pubDate>
         </item>
